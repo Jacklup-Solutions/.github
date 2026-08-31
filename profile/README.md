@@ -1,32 +1,37 @@
-# 🚀 Welcome to Jacklup Solutions (Pvt) Ltd
+![Jacklup Solutions Banner](https://raw.githubusercontent.com/jacklup-solutions/.github/main/images/banner.png)
 
-We design and engineer digital solutions, custom software platforms, immersive technologies, and predictive engineering systems.
+# Digital Solutions & Software Engineering
 
----
-
-### 🛠️ Tech Stack & Capabilities
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend & UI/UX** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend & Web** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white) |
-| **3D & Design** | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white) ![Spline](https://img.shields.io/badge/Spline-000000?style=flat-square&logo=spline&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) |
+At Jacklup Solutions, we build modern web platforms, custom SaaS architectures, interactive 3D web applications, and predictive engineering systems. We collaborate with businesses and developers to deliver scalable, high-performance tech products.
 
 ---
 
-### 🌟 Domain Expertise
+## 🚀 Get Involved & Partner With Us
 
-* **Software Engineering:** Web applications, custom SaaS platforms, and dynamic management systems.
-* **Immersive Technology:** Interactive 3D web graphics, asset design, and immersive user experiences.
-* **Predictive Engineering:** Data-driven solutions and advanced engineering integrations.
+Whether you are looking to explore our open initiatives, contribute to active projects, or collaborate on custom software development:
+
+* 🌐 **Explore Our Solutions:** Visit [jacklupsolutions.com](https://jacklupsolutions.com) to view our capabilities and service portfolio.
+* 🛠️ **Explore Public Repositories:** Check out our public tools, components, and open-source starter kits.
+* 🐛 **Report Issues:** Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) directly inside specific project repositories to report bugs or submit feature requests.
+* 🤝 **Client & Business Inquiries:** For custom development contracts and enterprise solutions, reach out directly to our engineering team.
+
+---
+
+## ⚙️ Core Engineering Pillars
+
+* **Software & Web Engineering:** Enterprise web applications, custom API systems, and dynamic management platforms.
+* **Immersive Technology:** Interactive 3D graphics, real-time web engines, and asset optimization.
+* **Predictive Engineering:** Data-driven logic, hardware-software integration, and smart automation systems.
 
 ---
 
-### 🌐 Connect With Us
+## 📜 Code of Conduct & Standards
 
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jacklupsolutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/jacklup-solutions)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@jacklup.com)
+Jacklup Solutions is committed to providing an inclusive, collaborative, and professional environment across all public and internal repositories. 
+
+* Review our [Community Guidelines](https://github.com/jacklup-solutions/.github/blob/main/CODE_OF_CONDUCT.md) before contributing.
+* For security vulnerabilities or private reports, contact security via our primary communication channels rather than public issues.
 
 ---
-> *Innovating digital products and high-performance software systems.*
+
+> *Innovating high-performance software systems and digital experiences.*

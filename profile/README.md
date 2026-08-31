@@ -10,6 +10,7 @@ At Jacklup Solutions, we build modern web platforms, custom SaaS architectures, 
 
 Whether you are looking to explore our open initiatives, contribute to active projects, or collaborate on custom software development:
 
+* [Explore featured projects](https://jacklup.com/featured-projects/)
 * **Explore Our Solutions:** Visit [www.jacklup.com](https://jacklup.com) to view our capabilities and service portfolio.
 * **Explore Public Repositories:** Check out our public tools, components, and open-source starter kits.
 * **Report Issues:** Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) directly inside specific project repositories to report bugs or submit feature requests.

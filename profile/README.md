@@ -1,4 +1,4 @@
-![Jacklup Solutions Banner](https://raw.githubusercontent.com/jacklup-solutions/.github/main/images/banner.png)
+![Jacklup Solutions Banner](https://github.com/jacklup-solutions/.github/images/open-banner.png)
 
 # Digital Solutions & Software Engineering
 
@@ -6,18 +6,18 @@ At Jacklup Solutions, we build modern web platforms, custom SaaS architectures, 
 
 ---
 
-## 🚀 Get Involved & Partner With Us
+## Get Involved & Partner With Us
 
 Whether you are looking to explore our open initiatives, contribute to active projects, or collaborate on custom software development:
 
-* 🌐 **Explore Our Solutions:** Visit [jacklupsolutions.com](https://jacklupsolutions.com) to view our capabilities and service portfolio.
-* 🛠️ **Explore Public Repositories:** Check out our public tools, components, and open-source starter kits.
-* 🐛 **Report Issues:** Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) directly inside specific project repositories to report bugs or submit feature requests.
-* 🤝 **Client & Business Inquiries:** For custom development contracts and enterprise solutions, reach out directly to our engineering team.
+* **Explore Our Solutions:** Visit [jacklupsolutions.com](https://jacklup.com) to view our capabilities and service portfolio.
+* **Explore Public Repositories:** Check out our public tools, components, and open-source starter kits.
+* **Report Issues:** Use [repository issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) directly inside specific project repositories to report bugs or submit feature requests.
+* **Client & Business Inquiries:** For custom development contracts and enterprise solutions, reach out directly to our engineering team.
 
 ---
 
-## ⚙️ Core Engineering Pillars
+## Core Engineering Pillars
 
 * **Software & Web Engineering:** Enterprise web applications, custom API systems, and dynamic management platforms.
 * **Immersive Technology:** Interactive 3D graphics, real-time web engines, and asset optimization.
@@ -25,7 +25,7 @@ Whether you are looking to explore our open initiatives, contribute to active pr
 
 ---
 
-## 📜 Code of Conduct & Standards
+## Code of Conduct & Standards
 
 Jacklup Solutions is committed to providing an inclusive, collaborative, and professional environment across all public and internal repositories. 
 

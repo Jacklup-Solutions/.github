@@ -1,4 +1,4 @@
-![Jacklup Solutions Banner](https://github.com/jacklup-solutions/.github/images/open-banner.png)
+![Jacklup Solutions Banner](https://github.com/Jacklup-Solutions/.github/blob/main/images/open-banner.png)
 
 # Digital Solutions & Software Engineering
 

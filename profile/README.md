@@ -1,8 +1,8 @@
 ![Jacklup Solutions Banner](https://github.com/Jacklup-Solutions/.github/blob/main/images/open-banner.png)
 
-# Digital Solutions & Software Engineering
+# Engineering the Future of Digital & Immersive Experiences
 
-At Jacklup Solutions, we build modern web platforms, custom SaaS architectures, interactive 3D web applications, and predictive engineering systems. We collaborate with businesses and developers to deliver scalable, high-performance tech products.
+Jacklup Solutions (Pvt) Ltd is a full-service IT company offering a comprehensive range of services, including software development, app development, web development, graphic design, 3D modeling, game development, and AR/VR/XR solutions. Our team of experienced professionals is dedicated to delivering innovative and high-quality solutions that cater to the diverse needs of businesses and individuals.
 
 ---
 
